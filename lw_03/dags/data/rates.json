@@ -1,0 +1,30 @@
+[
+  {
+    "position": "manager",
+    "rate_per_hour": 70
+  },
+  {
+    "position": "developer",
+    "rate_per_hour": 33
+  },
+  {
+    "position": "analyst",
+    "rate_per_hour": 97
+  },
+  {
+    "position": "designer",
+    "rate_per_hour": 41
+  },
+  {
+    "position": "qa",
+    "rate_per_hour": 75
+  },
+  {
+    "position": "hr",
+    "rate_per_hour": 45
+  },
+  {
+    "position": "support",
+    "rate_per_hour": 82
+  }
+]
